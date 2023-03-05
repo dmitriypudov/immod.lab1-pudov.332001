@@ -1,0 +1,11 @@
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\bin\Debug\ImModelLab1.exe.config
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\bin\Debug\ImModelLab1.exe
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\bin\Debug\ImModelLab1.pdb
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\ImModelLab1.Properties.Resources.resources
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\ImModelLab1.exe
+D:\ImModelLab1-master\ImModelLab1-master\WindowsFormsApp2\obj\Debug\ImModelLab1.pdb
